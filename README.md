@@ -1,0 +1,1 @@
+This is Marko000 first git project!
